@@ -115,6 +115,6 @@ This app is designed to deploy directly to [Streamlit Community Cloud](https://s
 
 Built as a capstone data analysis project applying the DIG Framework (Description, Introspection, Goal Setting) to the Online Retail II dataset.
 
-- **Hanan** — feature engineering, visualization, pipeline design, and this app
-- **Shariq, Tehleel, Saher** — team collaborators on the underlying analysis
+- **Hanan Gulzar** — feature engineering, visualization, pipeline design, and this app
+- **Shariq Rashid, Tehleel Un Nisa, Iram Altaf, Saher Nabi** — team collaborators on the underlying analysis
 - **Suha Vaqar Khan** — mentor
